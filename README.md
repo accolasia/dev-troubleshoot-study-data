@@ -5,7 +5,7 @@ This repository contains shared research data from a study at University of Vict
 
 The developer troubleshooting study included 27 semi-structured interviews of software developers about their troubleshooting experiences.  We used a Constructivist Grounded Theory (CGT) process to conduct grounded coding by reviewing the interview transcripts line by line and interpreting what is happening in the developer's experience.  This repository includes grounded coding data from the first 12 interviews when we reached theoretical saturation.  
 
-We include 16 reports, each report represents a research question and the grounded codes related to the area of inquiry. The research questions for the reports are also listed below. Within the reports we retain the links to which participant the grounded code originated, to make it clear when similar grounded codes are from the same or from multiple participants.  The grounded coding data was then imported into miro and sorted into clusters for further analysis and theoretical development.  We provide links to the miro boards for each research question below as well.
+We include 16 reports, each report represents a research question and the grounded codes related to the area of inquiry, and an extraction of 121 quotes from the transcripts.  The research questions for the reports are also listed below. Within the reports we retain the links to which participant the grounded code originated, to make it clear when similar grounded codes are from the same or from multiple participants.  The grounded coding data was then imported into miro and sorted into clusters for further analysis and theoretical development.  We provide links to the miro boards for each research question below as well.
 
 ## Research Questions
 
